@@ -11,6 +11,7 @@ https://aishwarya983.github.io/rock-paper-scissors/
 * User vs Computer gameplay
 * Score tracking
 * Simple and clean UI
+* interactive gameplay
 
 ## Tech Used
 
